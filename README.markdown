@@ -3,8 +3,7 @@
 **jAnimatedSprite animates a css-sprite by moving it from left to right (manipulating the background-position-x). Similar to an animated gif - but without limitations.",.**
 
 ## Example
-*  <div class="animate-me" style="background: url('sprite.png') 0 0 no-repeat"></div>
-*  <script>jQuery.jAnimatedSprite($('.animate-me'))</script>
+* jQuery.jAnimatedSprite($('.animate-me'))
 
 ## Requires
  * jQuery JavaScript Library - http://jquery.com/; Copyright 2010, John Resig; Dual licensed under the MIT or GPL Version 2 licenses - http://jquery.org/license
