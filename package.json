@@ -1,0 +1,37 @@
+{
+  "name": "jAnimatedSprite",
+  "version": "1.2",
+  "title": "jQuery.jAnimatedSprite - animated css-sprites, stop-motion-style! ",
+  "author": {
+        "name": "Martin Krause",
+        "url": "https://github.com/martinkr"
+    },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.gnu.org/licenses/gpl-3.0.html",
+    },
+    {
+      "type": "GPL-3.0",
+      "url": "http://www.opensource.org/licenses/MIT",
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.4.1"
+  },
+  "description": "jAnimatedSprite animates a css-sprite by moving it from left to right (manipulating the background-position-x). Similar to an animated gif - but without limitations.",
+
+  "keywords": [
+    "animation",
+    "sprite",
+    "stop motion",
+    "animated png",
+    "apng",
+    "animated gif"
+  ],
+  "homepage": "https://github.com/martinkr/jAnimatedSprite",
+  "files": [
+    "janimatedsprite.js",
+    "janimatedsprite.min.js",
+  ]
+}
