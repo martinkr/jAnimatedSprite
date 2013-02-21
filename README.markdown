@@ -1,6 +1,6 @@
 <a name="README">[jAnimatedSprite](https://github.com/martinkr/jAnimatedSprite)</a>
 =======
-**jAnimatedSprite animates a css-sprite by moving it from left to right (manipulating the background-position-x). Similar to an animated gif - but without limitations.",.**
+**jAnimatedSprite animates a css-sprite by moving it from left to right (manipulating the background-position-x). Similar to an animated gif - but without limitations. Imagine: pngs ...",.**
 
 ## Example
 * jQuery.jAnimatedSprite($('.animate-me'))
