@@ -1,6 +1,6 @@
 {
   "name": "janimatedsprite",
-  "main": "jcookie-min.js",
+  "main": "janimatedsprite.min.js",
   "version": "1.2.0",
   "homepage": "https://github.com/martinkr/jCookie",
   "author": "Martin Krause",
