@@ -17,7 +17,7 @@
     }
   ],
   "dependencies": {
-    "jquery": "1.4.1"
+    "jquery": "*"
   },
   "description": "jAnimatedSprite animates a css-sprite by moving it from left to right (manipulating the background-position-x). Similar to an animated gif - but without limitations.",
 
